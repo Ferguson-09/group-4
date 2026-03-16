@@ -1,1 +1,11 @@
 @import "./reset.css";
+
+.contact {
+    padding: 80px 20px;
+    background-color: white;
+    text-align: center;
+}
+
+.contact p {
+    font-size: 25px;
+}
