@@ -1,4 +1,8 @@
 @import "./reset.css";
+section {
+    text-align: center;
+    padding: 80px;
+}
 
 .head {
     background-color: purple;
@@ -37,6 +41,12 @@
     display: grid;
     place-items: center;
 }
+
+h2 {
+    font-weight: bold;
+    font-size: 25px;
+}
+
 .contact {
     padding: 80px 20px;
     background-color: white;
