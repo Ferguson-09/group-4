@@ -16,7 +16,7 @@
 }
 
 .home {
-    background-color: black;
+    background-color: grey;
     width: 90px;
     height: 60px;
     display: grid;
@@ -31,7 +31,7 @@
 
 .add {
     cursor: pointer;
-    background-color: black;
+    background-color: grey;
     height: 60px;
     width: 90px;
     display: grid;
