@@ -1,5 +1,42 @@
 @import "./reset.css";
 
+.head {
+    background-color: purple;
+    color: white;
+    height: 60px;
+    display: grid;
+    align-items: center;
+}
+
+.head-div {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 100px;
+    margin-left: 30px;
+}
+
+.home {
+    background-color: grey;
+    width: 90px;
+    height: 60px;
+    display: grid;
+    place-items: center;
+    cursor: pointer;
+}
+
+.add-div {
+    display: flex;
+    gap: 55px;
+}
+
+.add {
+    cursor: pointer;
+    background-color: grey;
+    height: 60px;
+    width: 90px;
+    display: grid;
+    place-items: center;
+}
 .contact {
     padding: 80px 20px;
     background-color: white;
