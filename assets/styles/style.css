@@ -9,3 +9,14 @@
 .contact p {
     font-size: 25px;
 }
+
+.contact-info p {
+    font-size: 20px;
+}
+.contact-info a {
+    color: blue;
+}
+
+.contact-info a:hover {
+    color: #712f8b;
+}
