@@ -67,3 +67,12 @@ h2 {
 .contact-info a:hover {
     color: #712f8b;
 }
+
+section {
+    text-align: center;
+    padding: 80px;
+}
+
+h2 {
+    font-weight: bold;
+}
